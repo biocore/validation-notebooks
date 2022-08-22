@@ -1,8 +1,8 @@
 ## Beta-diversity - Stepwise ANOVA-RDA
-A validation notebook for performing beta-diversity analysis using RDA and stepwise ANOVA.
+A validation notebook for performing beta-diversity analysis using RDA and stepwise ANOVA. Code and example input data are provided for running the analysis both with and without an accompanying phylogeny.
 
 ### Dependencies
-This notebook uses a QIIME2 conda environment kernel.
+This notebook uses a QIIME2 conda environment kernel, as well as tools provided in the 'assets' folder.
 
 ### References
 This code was adapted from X (email).
