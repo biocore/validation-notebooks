@@ -1,0 +1,337 @@
+sample1	sample2	value	sample1_type	sample1_extraction_kit_round	sample2_type	sample2_extraction_kit_round	sample_type	sample_type_2	biomass_plate
+12201.stool.mouse.K.1.standard.H	12201.stool.mouse.K.3.standard.H	0.29957593695184914	mouse.feces.K	PowerSoil r1	mouse.feces.K	PowerSoil r1	stool	mouse feces	high
+12201.stool.human.B.1.standard.H	12201.stool.human.B.2.standard.H	0.17261702545983193	human.feces.B	PowerSoil r1	human.feces.B	PowerSoil r1	stool	human feces	high
+12201.stool.human.B.1.standard.H	12201.stool.human.B.3.standard.H	0.1969399243547245	human.feces.B	PowerSoil r1	human.feces.B	PowerSoil r1	stool	human feces	high
+12201.food.yogurt.1.1.standard.H	12201.food.yogurt.1.3.standard.H	0.295873382614357	yogurt_container_1	PowerSoil r1	yogurt_container_1	PowerSoil r1	food	yogurt	high
+12201.stool.cat.L.3.standard.H	12201.stool.cat.L.1.standard.H	0.1908675160825987	cat.feces.L	PowerSoil r1	cat.feces.L	PowerSoil r1	stool	cat feces	high
+12201.stool.cat.L.3.standard.H	12201.stool.cat.L.2.standard.H	0.24323118309349812	cat.feces.L	PowerSoil r1	cat.feces.L	PowerSoil r1	stool	cat feces	high
+12201.stool.cat.L.1.standard.H	12201.stool.cat.L.2.standard.H	0.2531473459284763	cat.feces.L	PowerSoil r1	cat.feces.L	PowerSoil r1	stool	cat feces	high
+12201.stool.human.G.1.standard.H	12201.stool.human.G.3.standard.H	0.4346188143276189	human.feces.G	PowerSoil r1	human.feces.G	PowerSoil r1	stool	human feces	high
+12201.stool.human.G.1.standard.H	12201.stool.human.G.2.standard.H	0.3987906392051648	human.feces.G	PowerSoil r1	human.feces.G	PowerSoil r1	stool	human feces	high
+12201.food.yogurt.2.1.standard.H	12201.food.yogurt.2.3.standard.H	0.5000891353043955	yogurt_container_2	PowerSoil r1	yogurt_container_2	PowerSoil r1	food	yogurt	high
+12201.food.yogurt.2.1.standard.H	12201.food.yogurt.2.2.standard.H	0.3184515778318587	yogurt_container_2	PowerSoil r1	yogurt_container_2	PowerSoil r1	food	yogurt	high
+12201.food.kimchi.2.2.standard.H	12201.food.kimchi.2.1.standard.H	0.33014284792257603	kimchi_container_2	PowerSoil r1	kimchi_container_2	PowerSoil r1	food	kimchi	high
+12201.food.kimchi.2.2.standard.H	12201.food.kimchi.2.3.standard.H	0.3775194636010875	kimchi_container_2	PowerSoil r1	kimchi_container_2	PowerSoil r1	food	kimchi	high
+12201.stool.cat.M.2.standard.H	12201.stool.cat.M.1.standard.H	0.08288273025087857	cat.feces.M	PowerSoil r1	cat.feces.M	PowerSoil r1	stool	cat feces	high
+12201.stool.cat.M.2.standard.H	12201.stool.cat.M.3.standard.H	0.10647762140569593	cat.feces.M	PowerSoil r1	cat.feces.M	PowerSoil r1	stool	cat feces	high
+12201.stool.human.A.2.standard.H	12201.stool.human.A.3.standard.H	0.10726563284702556	human.feces.A	PowerSoil r1	human.feces.A	PowerSoil r1	stool	human feces	high
+12201.stool.human.A.2.standard.H	12201.stool.human.A.1.standard.H	0.21235492910560272	human.feces.A	PowerSoil r1	human.feces.A	PowerSoil r1	stool	human feces	high
+12201.stool.human.G.3.standard.H	12201.stool.human.G.2.standard.H	0.18928413231961036	human.feces.G	PowerSoil r1	human.feces.G	PowerSoil r1	stool	human feces	high
+12201.oral.human.B.2.standard.H	12201.oral.human.B.3.standard.H	0.2624397093312222	human.saliva.B	PowerSoil r1	human.saliva.B	PowerSoil r1	oral	human saliva	high
+12201.oral.human.B.2.standard.H	12201.oral.human.B.1.standard.H	0.2419277069011287	human.saliva.B	PowerSoil r1	human.saliva.B	PowerSoil r1	oral	human saliva	high
+12201.stool.cat.N.1.standard.H	12201.stool.cat.N.3.standard.H	0.17821870185149427	cat.feces.N	PowerSoil r1	cat.feces.N	PowerSoil r1	stool	cat feces	high
+12201.stool.mouse.J.2.standard.H	12201.stool.mouse.J.1.standard.H	0.48209497670023	mouse.feces.J	PowerSoil r1	mouse.feces.J	PowerSoil r1	stool	mouse feces	high
+12201.stool.mouse.J.2.standard.H	12201.stool.mouse.J.3.standard.H	0.27663149520275815	mouse.feces.J	PowerSoil r1	mouse.feces.J	PowerSoil r1	stool	mouse feces	high
+12201.food.kimchi.1.3.standard.H	12201.food.kimchi.1.1.standard.H	0.3719764909113378	kimchi_container_1	PowerSoil r1	kimchi_container_1	PowerSoil r1	food	kimchi	high
+12201.oral.human.C.1.standard.H	12201.oral.human.C.3.standard.H	0.39868724855206855	human.saliva.C	PowerSoil r1	human.saliva.C	PowerSoil r1	oral	human saliva	high
+12201.oral.human.C.1.standard.H	12201.oral.human.C.2.standard.H	0.23573304937986617	human.saliva.C	PowerSoil r1	human.saliva.C	PowerSoil r1	oral	human saliva	high
+12201.stool.human.B.2.standard.H	12201.stool.human.B.3.standard.H	0.19880452477491606	human.feces.B	PowerSoil r1	human.feces.B	PowerSoil r1	stool	human feces	high
+12201.oral.human.B.3.standard.H	12201.oral.human.B.1.standard.H	0.2386261589400881	human.saliva.B	PowerSoil r1	human.saliva.B	PowerSoil r1	oral	human saliva	high
+12201.food.kimchi.2.1.standard.H	12201.food.kimchi.2.3.standard.H	0.316435437481344	kimchi_container_2	PowerSoil r1	kimchi_container_2	PowerSoil r1	food	kimchi	high
+12201.stool.mouse.J.1.standard.H	12201.stool.mouse.J.3.standard.H	0.4896442873362593	mouse.feces.J	PowerSoil r1	mouse.feces.J	PowerSoil r1	stool	mouse feces	high
+12201.stool.human.H.2.standard.H	12201.stool.human.H.1.standard.H	0.12408642145045791	human.feces.H	PowerSoil r1	human.feces.H	PowerSoil r1	stool	human feces	high
+12201.stool.human.A.3.standard.H	12201.stool.human.A.1.standard.H	0.21702035214853826	human.feces.A	PowerSoil r1	human.feces.A	PowerSoil r1	stool	human feces	high
+12201.food.yogurt.2.3.standard.H	12201.food.yogurt.2.2.standard.H	0.48561154236136217	yogurt_container_2	PowerSoil r1	yogurt_container_2	PowerSoil r1	food	yogurt	high
+12201.oral.human.A.2.standard.H	12201.oral.human.A.1.standard.H	0.24154861030760985	human.saliva.A	PowerSoil r1	human.saliva.A	PowerSoil r1	oral	human saliva	high
+12201.stool.human.I.1.standard.H	12201.stool.human.I.2.standard.H	0.15640793668570957	human.feces.I	PowerSoil r1	human.feces.I	PowerSoil r1	stool	human feces	high
+12201.oral.human.C.3.standard.H	12201.oral.human.C.2.standard.H	0.35587619204467213	human.saliva.C	PowerSoil r1	human.saliva.C	PowerSoil r1	oral	human saliva	high
+12201.stool.cat.M.1.standard.H	12201.stool.cat.M.3.standard.H	0.11323424844595957	cat.feces.M	PowerSoil r1	cat.feces.M	PowerSoil r1	stool	cat feces	high
+12201.stool.human.G.1.norgen.H	12201.stool.human.G.2.norgen.H	0.14041068770061793	human.feces.G	Norgen	human.feces.G	Norgen	stool	human feces	high
+12201.stool.human.G.1.norgen.H	12201.stool.human.G.3.norgen.H	0.15995001420737626	human.feces.G	Norgen	human.feces.G	Norgen	stool	human feces	high
+12201.stool.human.H.1.norgen.H	12201.stool.human.H.3.norgen.H	0.10165625425788359	human.feces.H	Norgen	human.feces.H	Norgen	stool	human feces	high
+12201.stool.human.H.1.norgen.H	12201.stool.human.H.2.norgen.H	0.1888389823386584	human.feces.H	Norgen	human.feces.H	Norgen	stool	human feces	high
+12201.stool.human.B.1.norgen.H	12201.stool.human.B.2.norgen.H	0.20195664965059854	human.feces.B	Norgen	human.feces.B	Norgen	stool	human feces	high
+12201.stool.human.B.1.norgen.H	12201.stool.human.B.3.norgen.H	0.2606394582510892	human.feces.B	Norgen	human.feces.B	Norgen	stool	human feces	high
+12201.stool.human.I.1.norgen.H	12201.stool.human.I.3.norgen.H	0.12123494507917418	human.feces.I	Norgen	human.feces.I	Norgen	stool	human feces	high
+12201.stool.human.I.1.norgen.H	12201.stool.human.I.2.norgen.H	0.16106620386536175	human.feces.I	Norgen	human.feces.I	Norgen	stool	human feces	high
+12201.stool.human.H.3.norgen.H	12201.stool.human.H.2.norgen.H	0.16756367381561538	human.feces.H	Norgen	human.feces.H	Norgen	stool	human feces	high
+12201.oral.human.F.3.norgen.H	12201.oral.human.F.1.norgen.H	0.29905676858785746	human.saliva.F	Norgen	human.saliva.F	Norgen	oral	human saliva	high
+12201.oral.human.F.3.norgen.H	12201.oral.human.F.2.norgen.H	0.2744716435743623	human.saliva.F	Norgen	human.saliva.F	Norgen	oral	human saliva	high
+12201.stool.human.A.1.norgen.H	12201.stool.human.A.2.norgen.H	0.2381453359574026	human.feces.A	Norgen	human.feces.A	Norgen	stool	human feces	high
+12201.stool.human.A.1.norgen.H	12201.stool.human.A.3.norgen.H	0.21001536513475466	human.feces.A	Norgen	human.feces.A	Norgen	stool	human feces	high
+12201.food.yogurt.2.3.norgen.H	12201.food.yogurt.2.2.norgen.H	0.39565355220086174	yogurt_container_2	Norgen	yogurt_container_2	Norgen	food	yogurt	high
+12201.oral.human.F.1.norgen.H	12201.oral.human.F.2.norgen.H	0.2526114894370614	human.saliva.F	Norgen	human.saliva.F	Norgen	oral	human saliva	high
+12201.stool.cat.M.1.norgen.H	12201.stool.cat.M.3.norgen.H	0.19865141423809082	cat.feces.M	Norgen	cat.feces.M	Norgen	stool	cat feces	high
+12201.stool.cat.M.1.norgen.H	12201.stool.cat.M.2.norgen.H	0.1706020995463073	cat.feces.M	Norgen	cat.feces.M	Norgen	stool	cat feces	high
+12201.oral.human.B.3.norgen.H	12201.oral.human.B.1.norgen.H	0.2545539083030362	human.saliva.B	Norgen	human.saliva.B	Norgen	oral	human saliva	high
+12201.oral.human.B.3.norgen.H	12201.oral.human.B.2.norgen.H	0.2822887707832504	human.saliva.B	Norgen	human.saliva.B	Norgen	oral	human saliva	high
+12201.oral.human.D.3.norgen.H	12201.oral.human.D.2.norgen.H	0.2784457783645567	human.saliva.D	Norgen	human.saliva.D	Norgen	oral	human saliva	high
+12201.stool.human.G.2.norgen.H	12201.stool.human.G.3.norgen.H	0.13708572903632602	human.feces.G	Norgen	human.feces.G	Norgen	stool	human feces	high
+12201.food.yogurt.1.3.norgen.H	12201.food.yogurt.1.1.norgen.H	0.44869307565338445	yogurt_container_1	Norgen	yogurt_container_1	Norgen	food	yogurt	high
+12201.food.yogurt.1.3.norgen.H	12201.food.yogurt.1.2.norgen.H	0.4993669532257882	yogurt_container_1	Norgen	yogurt_container_1	Norgen	food	yogurt	high
+12201.stool.cat.N.1.norgen.H	12201.stool.cat.N.3.norgen.H	0.27527432993615464	cat.feces.N	Norgen	cat.feces.N	Norgen	stool	cat feces	high
+12201.stool.cat.N.1.norgen.H	12201.stool.cat.N.2.norgen.H	0.26646393610954155	cat.feces.N	Norgen	cat.feces.N	Norgen	stool	cat feces	high
+12201.oral.human.B.1.norgen.H	12201.oral.human.B.2.norgen.H	0.24506566409346905	human.saliva.B	Norgen	human.saliva.B	Norgen	oral	human saliva	high
+12201.stool.cat.L.2.norgen.H	12201.stool.cat.L.1.norgen.H	0.22840547265474356	cat.feces.L	Norgen	cat.feces.L	Norgen	stool	cat feces	high
+12201.stool.cat.L.2.norgen.H	12201.stool.cat.L.3.norgen.H	0.13635322033247455	cat.feces.L	Norgen	cat.feces.L	Norgen	stool	cat feces	high
+12201.food.kimchi.1.3.norgen.H	12201.food.kimchi.1.1.norgen.H	0.45774058858317196	kimchi_container_1	Norgen	kimchi_container_1	Norgen	food	kimchi	high
+12201.oral.human.A.2.norgen.H	12201.oral.human.A.3.norgen.H	0.19860540920300745	human.saliva.A	Norgen	human.saliva.A	Norgen	oral	human saliva	high
+12201.oral.human.A.2.norgen.H	12201.oral.human.A.1.norgen.H	0.2506660790046699	human.saliva.A	Norgen	human.saliva.A	Norgen	oral	human saliva	high
+12201.food.kimchi.2.1.norgen.H	12201.food.kimchi.2.3.norgen.H	0.3490619098091241	kimchi_container_2	Norgen	kimchi_container_2	Norgen	food	kimchi	high
+12201.food.kimchi.2.1.norgen.H	12201.food.kimchi.2.2.norgen.H	0.440508390467278	kimchi_container_2	Norgen	kimchi_container_2	Norgen	food	kimchi	high
+12201.food.yogurt.1.1.norgen.H	12201.food.yogurt.1.2.norgen.H	0.2980269091233489	yogurt_container_1	Norgen	yogurt_container_1	Norgen	food	yogurt	high
+12201.stool.mouse.J.3.norgen.H	12201.stool.mouse.J.2.norgen.H	0.22250088434753834	mouse.feces.J	Norgen	mouse.feces.J	Norgen	stool	mouse feces	high
+12201.oral.human.C.3.norgen.H	12201.oral.human.C.1.norgen.H	0.15686526283454022	human.saliva.C	Norgen	human.saliva.C	Norgen	oral	human saliva	high
+12201.stool.cat.N.3.norgen.H	12201.stool.cat.N.2.norgen.H	0.1968248244255206	cat.feces.N	Norgen	cat.feces.N	Norgen	stool	cat feces	high
+12201.oral.human.E.2.norgen.H	12201.oral.human.E.3.norgen.H	0.29203168795207624	human.saliva.E	Norgen	human.saliva.E	Norgen	oral	human saliva	high
+12201.oral.human.E.2.norgen.H	12201.oral.human.E.1.norgen.H	0.16593295368309968	human.saliva.E	Norgen	human.saliva.E	Norgen	oral	human saliva	high
+12201.stool.human.I.3.norgen.H	12201.stool.human.I.2.norgen.H	0.16103268831178905	human.feces.I	Norgen	human.feces.I	Norgen	stool	human feces	high
+12201.stool.human.A.2.norgen.H	12201.stool.human.A.3.norgen.H	0.2624001210218991	human.feces.A	Norgen	human.feces.A	Norgen	stool	human feces	high
+12201.oral.human.E.3.norgen.H	12201.oral.human.E.1.norgen.H	0.2823527309282764	human.saliva.E	Norgen	human.saliva.E	Norgen	oral	human saliva	high
+12201.stool.cat.M.3.norgen.H	12201.stool.cat.M.2.norgen.H	0.1864347128988954	cat.feces.M	Norgen	cat.feces.M	Norgen	stool	cat feces	high
+12201.stool.human.B.2.norgen.H	12201.stool.human.B.3.norgen.H	0.2560937386455364	human.feces.B	Norgen	human.feces.B	Norgen	stool	human feces	high
+12201.food.kimchi.2.3.norgen.H	12201.food.kimchi.2.2.norgen.H	0.3884616813606014	kimchi_container_2	Norgen	kimchi_container_2	Norgen	food	kimchi	high
+12201.oral.human.A.3.norgen.H	12201.oral.human.A.1.norgen.H	0.21750662797214906	human.saliva.A	Norgen	human.saliva.A	Norgen	oral	human saliva	high
+12201.stool.cat.L.1.norgen.H	12201.stool.cat.L.3.norgen.H	0.23927949940177373	cat.feces.L	Norgen	cat.feces.L	Norgen	stool	cat feces	high
+12201.soil.bare.L.2.norgen.H	12201.soil.bare.L.1.norgen.H	0.466808456396614	bare soil site 3	Norgen	bare soil site 3	Norgen	soil	bare soil	high
+12201.food.yogurt.1.3.pro.H	12201.food.yogurt.1.2.pro.H	0.49411770904519237	yogurt_container_1	PowerSoil Pro	yogurt_container_1	PowerSoil Pro	food	yogurt	high
+12201.food.yogurt.1.3.pro.H	12201.food.yogurt.1.1.pro.H	0.7152979913311011	yogurt_container_1	PowerSoil Pro	yogurt_container_1	PowerSoil Pro	food	yogurt	high
+12201.food.yogurt.2.2.pro.H	12201.food.yogurt.2.3.pro.H	0.5293419357542649	yogurt_container_2	PowerSoil Pro	yogurt_container_2	PowerSoil Pro	food	yogurt	high
+12201.food.yogurt.2.2.pro.H	12201.food.yogurt.2.1.pro.H	0.5606545153752969	yogurt_container_2	PowerSoil Pro	yogurt_container_2	PowerSoil Pro	food	yogurt	high
+12201.oral.human.E.3.pro.H	12201.oral.human.E.1.pro.H	0.2606827644567671	human.saliva.E	PowerSoil Pro	human.saliva.E	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.E.3.pro.H	12201.oral.human.E.2.pro.H	0.21307900986668066	human.saliva.E	PowerSoil Pro	human.saliva.E	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.A.2.pro.H	12201.oral.human.A.3.pro.H	0.1945425701513468	human.saliva.A	PowerSoil Pro	human.saliva.A	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.A.2.pro.H	12201.oral.human.A.1.pro.H	0.539275911514494	human.saliva.A	PowerSoil Pro	human.saliva.A	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.B.2.pro.H	12201.oral.human.B.1.pro.H	0.3002123874767033	human.saliva.B	PowerSoil Pro	human.saliva.B	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.B.2.pro.H	12201.oral.human.B.3.pro.H	0.3271542691223494	human.saliva.B	PowerSoil Pro	human.saliva.B	PowerSoil Pro	oral	human saliva	high
+12201.soil.bare.J.3.pro.H	12201.soil.bare.J.2.pro.H	0.36222738431217394	bare soil site 1	PowerSoil Pro	bare soil site 1	PowerSoil Pro	soil	bare soil	high
+12201.soil.bare.J.3.pro.H	12201.soil.bare.J.1.pro.H	0.34191898698475504	bare soil site 1	PowerSoil Pro	bare soil site 1	PowerSoil Pro	soil	bare soil	high
+12201.food.kimchi.1.3.pro.H	12201.food.kimchi.1.1.pro.H	0.41487615567323805	kimchi_container_1	PowerSoil Pro	kimchi_container_1	PowerSoil Pro	food	kimchi	high
+12201.food.kimchi.1.3.pro.H	12201.food.kimchi.1.2.pro.H	0.3389712574908031	kimchi_container_1	PowerSoil Pro	kimchi_container_1	PowerSoil Pro	food	kimchi	high
+12201.food.yogurt.1.2.pro.H	12201.food.yogurt.1.1.pro.H	0.6586768183875508	yogurt_container_1	PowerSoil Pro	yogurt_container_1	PowerSoil Pro	food	yogurt	high
+12201.stool.mouse.J.1.pro.H	12201.stool.mouse.J.2.pro.H	0.44733930219869994	mouse.feces.J	PowerSoil Pro	mouse.feces.J	PowerSoil Pro	stool	mouse feces	high
+12201.stool.mouse.J.1.pro.H	12201.stool.mouse.J.3.pro.H	0.489681770068921	mouse.feces.J	PowerSoil Pro	mouse.feces.J	PowerSoil Pro	stool	mouse feces	high
+12201.stool.human.B.3.pro.H	12201.stool.human.B.1.pro.H	0.22992053232938134	human.feces.B	PowerSoil Pro	human.feces.B	PowerSoil Pro	stool	human feces	high
+12201.oral.human.B.1.pro.H	12201.oral.human.B.3.pro.H	0.22165503429812805	human.saliva.B	PowerSoil Pro	human.saliva.B	PowerSoil Pro	oral	human saliva	high
+12201.food.yogurt.2.3.pro.H	12201.food.yogurt.2.1.pro.H	0.7459869779295624	yogurt_container_2	PowerSoil Pro	yogurt_container_2	PowerSoil Pro	food	yogurt	high
+12201.stool.cat.M.1.pro.H	12201.stool.cat.M.3.pro.H	0.16454910906896922	cat.feces.M	PowerSoil Pro	cat.feces.M	PowerSoil Pro	stool	cat feces	high
+12201.stool.cat.M.1.pro.H	12201.stool.cat.M.2.pro.H	0.22046830314961124	cat.feces.M	PowerSoil Pro	cat.feces.M	PowerSoil Pro	stool	cat feces	high
+12201.stool.cat.N.3.pro.H	12201.stool.cat.N.2.pro.H	0.24115724898455124	cat.feces.N	PowerSoil Pro	cat.feces.N	PowerSoil Pro	stool	cat feces	high
+12201.stool.cat.N.3.pro.H	12201.stool.cat.N.1.pro.H	0.25916656315777464	cat.feces.N	PowerSoil Pro	cat.feces.N	PowerSoil Pro	stool	cat feces	high
+12201.stool.human.A.2.pro.H	12201.stool.human.A.1.pro.H	0.3356383794774091	human.feces.A	PowerSoil Pro	human.feces.A	PowerSoil Pro	stool	human feces	high
+12201.stool.human.A.2.pro.H	12201.stool.human.A.3.pro.H	0.11722895648759839	human.feces.A	PowerSoil Pro	human.feces.A	PowerSoil Pro	stool	human feces	high
+12201.stool.human.I.2.pro.H	12201.stool.human.I.3.pro.H	0.19725504676614614	human.feces.I	PowerSoil Pro	human.feces.I	PowerSoil Pro	stool	human feces	high
+12201.stool.human.I.2.pro.H	12201.stool.human.I.1.pro.H	0.22191959040008655	human.feces.I	PowerSoil Pro	human.feces.I	PowerSoil Pro	stool	human feces	high
+12201.oral.human.D.2.pro.H	12201.oral.human.D.3.pro.H	0.1932555833803781	human.saliva.D	PowerSoil Pro	human.saliva.D	PowerSoil Pro	oral	human saliva	high
+12201.stool.mouse.K.1.pro.H	12201.stool.mouse.K.3.pro.H	0.31041366980093515	mouse.feces.K	PowerSoil Pro	mouse.feces.K	PowerSoil Pro	stool	mouse feces	high
+12201.stool.cat.N.2.pro.H	12201.stool.cat.N.1.pro.H	0.27981637059259845	cat.feces.N	PowerSoil Pro	cat.feces.N	PowerSoil Pro	stool	cat feces	high
+12201.oral.human.A.3.pro.H	12201.oral.human.A.1.pro.H	0.5404003616203693	human.saliva.A	PowerSoil Pro	human.saliva.A	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.F.2.pro.H	12201.oral.human.F.3.pro.H	0.6716289752200543	human.saliva.F	PowerSoil Pro	human.saliva.F	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.F.2.pro.H	12201.oral.human.F.1.pro.H	0.7024881024643717	human.saliva.F	PowerSoil Pro	human.saliva.F	PowerSoil Pro	oral	human saliva	high
+12201.soil.bare.J.2.pro.H	12201.soil.bare.J.1.pro.H	0.364624536431145	bare soil site 1	PowerSoil Pro	bare soil site 1	PowerSoil Pro	soil	bare soil	high
+12201.stool.human.I.3.pro.H	12201.stool.human.I.1.pro.H	0.1657828953371644	human.feces.I	PowerSoil Pro	human.feces.I	PowerSoil Pro	stool	human feces	high
+12201.soil.bare.K.3.pro.H	12201.soil.bare.K.2.pro.H	0.48784950825500145	bare soil site 2	PowerSoil Pro	bare soil site 2	PowerSoil Pro	soil	bare soil	high
+12201.stool.cat.M.3.pro.H	12201.stool.cat.M.2.pro.H	0.1898118168483805	cat.feces.M	PowerSoil Pro	cat.feces.M	PowerSoil Pro	stool	cat feces	high
+12201.oral.human.C.1.pro.H	12201.oral.human.C.3.pro.H	0.5309400175673897	human.saliva.C	PowerSoil Pro	human.saliva.C	PowerSoil Pro	oral	human saliva	high
+12201.oral.human.C.1.pro.H	12201.oral.human.C.2.pro.H	0.23337903781478192	human.saliva.C	PowerSoil Pro	human.saliva.C	PowerSoil Pro	oral	human saliva	high
+12201.stool.mouse.J.2.pro.H	12201.stool.mouse.J.3.pro.H	0.42003604204716294	mouse.feces.J	PowerSoil Pro	mouse.feces.J	PowerSoil Pro	stool	mouse feces	high
+12201.oral.human.C.3.pro.H	12201.oral.human.C.2.pro.H	0.5259837847350556	human.saliva.C	PowerSoil Pro	human.saliva.C	PowerSoil Pro	oral	human saliva	high
+12201.stool.human.H.1.pro.H	12201.stool.human.H.3.pro.H	0.1431534233448443	human.feces.H	PowerSoil Pro	human.feces.H	PowerSoil Pro	stool	human feces	high
+12201.stool.human.H.1.pro.H	12201.stool.human.H.2.pro.H	0.20325990885131057	human.feces.H	PowerSoil Pro	human.feces.H	PowerSoil Pro	stool	human feces	high
+12201.oral.human.E.1.pro.H	12201.oral.human.E.2.pro.H	0.1839763869914396	human.saliva.E	PowerSoil Pro	human.saliva.E	PowerSoil Pro	oral	human saliva	high
+12201.stool.human.G.3.pro.H	12201.stool.human.G.2.pro.H	0.27973627198673906	human.feces.G	PowerSoil Pro	human.feces.G	PowerSoil Pro	stool	human feces	high
+12201.stool.human.G.3.pro.H	12201.stool.human.G.1.pro.H	0.20001552397467415	human.feces.G	PowerSoil Pro	human.feces.G	PowerSoil Pro	stool	human feces	high
+12201.stool.human.G.2.pro.H	12201.stool.human.G.1.pro.H	0.2456902641104122	human.feces.G	PowerSoil Pro	human.feces.G	PowerSoil Pro	stool	human feces	high
+12201.food.kimchi.2.1.pro.H	12201.food.kimchi.2.2.pro.H	0.4396333635221946	kimchi_container_2	PowerSoil Pro	kimchi_container_2	PowerSoil Pro	food	kimchi	high
+12201.food.kimchi.2.1.pro.H	12201.food.kimchi.2.3.pro.H	0.4914793487929354	kimchi_container_2	PowerSoil Pro	kimchi_container_2	PowerSoil Pro	food	kimchi	high
+12201.food.kimchi.2.2.pro.H	12201.food.kimchi.2.3.pro.H	0.3009552063260755	kimchi_container_2	PowerSoil Pro	kimchi_container_2	PowerSoil Pro	food	kimchi	high
+12201.oral.human.F.3.pro.H	12201.oral.human.F.1.pro.H	0.20321361312369174	human.saliva.F	PowerSoil Pro	human.saliva.F	PowerSoil Pro	oral	human saliva	high
+12201.stool.human.H.3.pro.H	12201.stool.human.H.2.pro.H	0.23038927739210402	human.feces.H	PowerSoil Pro	human.feces.H	PowerSoil Pro	stool	human feces	high
+12201.stool.human.A.1.pro.H	12201.stool.human.A.3.pro.H	0.32299311770782185	human.feces.A	PowerSoil Pro	human.feces.A	PowerSoil Pro	stool	human feces	high
+12201.food.kimchi.1.1.pro.H	12201.food.kimchi.1.2.pro.H	0.3768547330384991	kimchi_container_1	PowerSoil Pro	kimchi_container_1	PowerSoil Pro	food	kimchi	high
+12201.tissue.mouse.R.2.microbiome.H	12201.tissue.mouse.R.1.microbiome.H	0.26934526546884807	mouse.tissue.R	MagMAX Microbiome	mouse.tissue.R	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.tissue.mouse.R.2.microbiome.H	12201.tissue.mouse.R.3.microbiome.H	0.29771589875257315	mouse.tissue.R	MagMAX Microbiome	mouse.tissue.R	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.stool.human.A.1.microbiome.H	12201.stool.human.A.2.microbiome.H	0.1984292866267569	human.feces.A	MagMAX Microbiome	human.feces.A	MagMAX Microbiome	stool	human feces	high
+12201.oral.human.B.2.microbiome.H	12201.oral.human.B.1.microbiome.H	0.2912691195488826	human.saliva.B	MagMAX Microbiome	human.saliva.B	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.B.2.microbiome.H	12201.oral.human.B.3.microbiome.H	0.26370088886044374	human.saliva.B	MagMAX Microbiome	human.saliva.B	MagMAX Microbiome	oral	human saliva	high
+12201.food.yogurt.2.3.microbiome.H	12201.food.yogurt.2.1.microbiome.H	0.5074524382224945	yogurt_container_2	MagMAX Microbiome	yogurt_container_2	MagMAX Microbiome	food	yogurt	high
+12201.food.yogurt.2.3.microbiome.H	12201.food.yogurt.2.2.microbiome.H	0.39678455541888985	yogurt_container_2	MagMAX Microbiome	yogurt_container_2	MagMAX Microbiome	food	yogurt	high
+12201.food.yogurt.2.1.microbiome.H	12201.food.yogurt.2.2.microbiome.H	0.5444042038030763	yogurt_container_2	MagMAX Microbiome	yogurt_container_2	MagMAX Microbiome	food	yogurt	high
+12201.oral.human.B.1.microbiome.H	12201.oral.human.B.3.microbiome.H	0.24150416690680906	human.saliva.B	MagMAX Microbiome	human.saliva.B	MagMAX Microbiome	oral	human saliva	high
+12201.stool.cat.L.1.microbiome.H	12201.stool.cat.L.3.microbiome.H	0.410363701956331	cat.feces.L	MagMAX Microbiome	cat.feces.L	MagMAX Microbiome	stool	cat feces	high
+12201.stool.cat.L.1.microbiome.H	12201.stool.cat.L.2.microbiome.H	0.3982401561258384	cat.feces.L	MagMAX Microbiome	cat.feces.L	MagMAX Microbiome	stool	cat feces	high
+12201.stool.cat.M.1.microbiome.H	12201.stool.cat.M.3.microbiome.H	0.3003970551560371	cat.feces.M	MagMAX Microbiome	cat.feces.M	MagMAX Microbiome	stool	cat feces	high
+12201.food.kimchi.2.1.microbiome.H	12201.food.kimchi.2.2.microbiome.H	0.3465466750031681	kimchi_container_2	MagMAX Microbiome	kimchi_container_2	MagMAX Microbiome	food	kimchi	high
+12201.food.kimchi.2.1.microbiome.H	12201.food.kimchi.2.3.microbiome.H	0.4273147377190284	kimchi_container_2	MagMAX Microbiome	kimchi_container_2	MagMAX Microbiome	food	kimchi	high
+12201.tissue.mouse.Q.2.microbiome.H	12201.tissue.mouse.Q.1.microbiome.H	0.33414519250948893	mouse.tissue.Q	MagMAX Microbiome	mouse.tissue.Q	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.stool.mouse.M.3.microbiome.H	12201.stool.mouse.M.1.microbiome.H	0.27932439204047027	mouse.feces.M	MagMAX Microbiome	mouse.feces.M	MagMAX Microbiome	stool	mouse feces	high
+12201.stool.mouse.M.3.microbiome.H	12201.stool.mouse.M.2.microbiome.H	0.3785487521269205	mouse.feces.M	MagMAX Microbiome	mouse.feces.M	MagMAX Microbiome	stool	mouse feces	high
+12201.soil.bare.L.1.microbiome.H	12201.soil.bare.L.2.microbiome.H	0.3588737424029539	bare soil site 3	MagMAX Microbiome	bare soil site 3	MagMAX Microbiome	soil	bare soil	high
+12201.soil.bare.L.1.microbiome.H	12201.soil.bare.L.3.microbiome.H	0.37805051955711355	bare soil site 3	MagMAX Microbiome	bare soil site 3	MagMAX Microbiome	soil	bare soil	high
+12201.tissue.mouse.R.1.microbiome.H	12201.tissue.mouse.R.3.microbiome.H	0.3005219742164597	mouse.tissue.R	MagMAX Microbiome	mouse.tissue.R	MagMAX Microbiome	tissue	mouse jejunum tissue	high
+12201.oral.human.D.2.microbiome.H	12201.oral.human.D.3.microbiome.H	0.3479546403371015	human.salva.D	MagMAX Microbiome	human.salva.D	MagMAX Microbiome	oral	human saliva	high
+12201.soil.bare.L.2.microbiome.H	12201.soil.bare.L.3.microbiome.H	0.3495307755906029	bare soil site 3	MagMAX Microbiome	bare soil site 3	MagMAX Microbiome	soil	bare soil	high
+12201.oral.human.A.3.microbiome.H	12201.oral.human.A.2.microbiome.H	0.25924441648193425	human.saliva.A	MagMAX Microbiome	human.saliva.A	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.A.3.microbiome.H	12201.oral.human.A.1.microbiome.H	0.2908094097028784	human.saliva.A	MagMAX Microbiome	human.saliva.A	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.K.2.microbiome.H	12201.oral.human.K.1.microbiome.H	0.17922417829451778	human.saliva.K	MagMAX Microbiome	human.saliva.K	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.K.2.microbiome.H	12201.oral.human.K.3.microbiome.H	0.25329918407828556	human.saliva.K	MagMAX Microbiome	human.saliva.K	MagMAX Microbiome	oral	human saliva	high
+12201.food.kimchi.1.2.microbiome.H	12201.food.kimchi.1.3.microbiome.H	0.41457165397695467	kimchi_container_1	MagMAX Microbiome	kimchi_container_1	MagMAX Microbiome	food	kimchi	high
+12201.food.kimchi.1.2.microbiome.H	12201.food.kimchi.1.1.microbiome.H	0.5476106398251672	kimchi_container_1	MagMAX Microbiome	kimchi_container_1	MagMAX Microbiome	food	kimchi	high
+12201.oral.human.N.3.microbiome.H	12201.oral.human.N.1.microbiome.H	0.1689669188783841	human.saliva.N	MagMAX Microbiome	human.saliva.N	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.N.3.microbiome.H	12201.oral.human.N.2.microbiome.H	0.26004704693867586	human.saliva.N	MagMAX Microbiome	human.saliva.N	MagMAX Microbiome	oral	human saliva	high
+12201.food.kimchi.1.3.microbiome.H	12201.food.kimchi.1.1.microbiome.H	0.3825812408364747	kimchi_container_1	MagMAX Microbiome	kimchi_container_1	MagMAX Microbiome	food	kimchi	high
+12201.stool.mouse.M.1.microbiome.H	12201.stool.mouse.M.2.microbiome.H	0.40580198837831816	mouse.feces.M	MagMAX Microbiome	mouse.feces.M	MagMAX Microbiome	stool	mouse feces	high
+12201.food.kimchi.2.2.microbiome.H	12201.food.kimchi.2.3.microbiome.H	0.4860332479660002	kimchi_container_2	MagMAX Microbiome	kimchi_container_2	MagMAX Microbiome	food	kimchi	high
+12201.stool.cat.L.3.microbiome.H	12201.stool.cat.L.2.microbiome.H	0.2967027669745912	cat.feces.L	MagMAX Microbiome	cat.feces.L	MagMAX Microbiome	stool	cat feces	high
+12201.food.yogurt.1.3.microbiome.H	12201.food.yogurt.1.1.microbiome.H	0.5437311559898401	yogurt_container_1	MagMAX Microbiome	yogurt_container_1	MagMAX Microbiome	food	yogurt	high
+12201.food.yogurt.1.3.microbiome.H	12201.food.yogurt.1.2.microbiome.H	0.49323366832649695	yogurt_container_1	MagMAX Microbiome	yogurt_container_1	MagMAX Microbiome	food	yogurt	high
+12201.oral.human.L.2.microbiome.H	12201.oral.human.L.3.microbiome.H	0.20759034849478078	human.saliva.L	MagMAX Microbiome	human.saliva.L	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.L.2.microbiome.H	12201.oral.human.L.1.microbiome.H	0.22402484865007746	human.saliva.L	MagMAX Microbiome	human.saliva.L	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.N.1.microbiome.H	12201.oral.human.N.2.microbiome.H	0.192254453705319	human.saliva.N	MagMAX Microbiome	human.saliva.N	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.A.2.microbiome.H	12201.oral.human.A.1.microbiome.H	0.2948016024517039	human.saliva.A	MagMAX Microbiome	human.saliva.A	MagMAX Microbiome	oral	human saliva	high
+12201.oral.human.L.3.microbiome.H	12201.oral.human.L.1.microbiome.H	0.20931960196809157	human.saliva.L	MagMAX Microbiome	human.saliva.L	MagMAX Microbiome	oral	human saliva	high
+12201.soil.bare.J.1.microbiome.H	12201.soil.bare.J.2.microbiome.H	0.38634414200880846	bare soil site 1	MagMAX Microbiome	bare soil site 1	MagMAX Microbiome	soil	bare soil	high
+12201.oral.human.K.1.microbiome.H	12201.oral.human.K.3.microbiome.H	0.3025822080772925	human.saliva.K	MagMAX Microbiome	human.saliva.K	MagMAX Microbiome	oral	human saliva	high
+12201.stool.mouse.L.3.microbiome.H	12201.stool.mouse.L.2.microbiome.H	0.3458979113168565	mouse.feces.L	MagMAX Microbiome	mouse.feces.L	MagMAX Microbiome	stool	mouse feces	high
+12201.stool.mouse.L.3.microbiome.H	12201.stool.mouse.L.1.microbiome.H	0.4336225316971979	mouse.feces.L	MagMAX Microbiome	mouse.feces.L	MagMAX Microbiome	stool	mouse feces	high
+12201.stool.mouse.L.2.microbiome.H	12201.stool.mouse.L.1.microbiome.H	0.31035600489838344	mouse.feces.L	MagMAX Microbiome	mouse.feces.L	MagMAX Microbiome	stool	mouse feces	high
+12201.food.yogurt.1.1.microbiome.H	12201.food.yogurt.1.2.microbiome.H	0.44002164374675196	yogurt_container_1	MagMAX Microbiome	yogurt_container_1	MagMAX Microbiome	food	yogurt	high
+12201.stool.human.J.2.1.microbiome.H	12201.stool.human.J.2.2.microbiome.H	0.2431170430090692	human.feces.J.2	MagMAX Microbiome	human.feces.J.2	MagMAX Microbiome	stool	human feces	high
+12201.stool.human.J.2.1.microbiome.H	12201.stool.human.J.2.3.microbiome.H	0.26899569403602663	human.feces.J.2	MagMAX Microbiome	human.feces.J.2	MagMAX Microbiome	stool	human feces	high
+12201.stool.human.J.2.2.microbiome.H	12201.stool.human.J.2.3.microbiome.H	0.28199491721553765	human.feces.J.2	MagMAX Microbiome	human.feces.J.2	MagMAX Microbiome	stool	human feces	high
+12201.stool.human.J.3.2.nucleomag.H	12201.stool.human.J.3.3.nucleomag.H	0.23534162667278588	human.feces.J.3	NucleoMag Food	human.feces.J.3	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.3.2.nucleomag.H	12201.stool.human.J.3.1.nucleomag.H	0.24280327259483467	human.feces.J.3	NucleoMag Food	human.feces.J.3	NucleoMag Food	stool	human feces	high
+12201.stool.cat.L.3.nucleomag.H	12201.stool.cat.L.1.nucleomag.H	0.27421774860214415	cat.feces.L	NucleoMag Food	cat.feces.L	NucleoMag Food	stool	cat feces	high
+12201.stool.cat.L.3.nucleomag.H	12201.stool.cat.L.2.nucleomag.H	0.24780045502805753	cat.feces.L	NucleoMag Food	cat.feces.L	NucleoMag Food	stool	cat feces	high
+12201.stool.human.J.3.3.nucleomag.H	12201.stool.human.J.3.1.nucleomag.H	0.21526949724892636	human.feces.J.3	NucleoMag Food	human.feces.J.3	NucleoMag Food	stool	human feces	high
+12201.stool.mouse.L.2.nucleomag.H	12201.stool.mouse.L.3.nucleomag.H	0.3945992557680014	mouse.feces.L	NucleoMag Food	mouse.feces.L	NucleoMag Food	stool	mouse feces	high
+12201.stool.mouse.L.2.nucleomag.H	12201.stool.mouse.L.1.nucleomag.H	0.4655448171514394	mouse.feces.L	NucleoMag Food	mouse.feces.L	NucleoMag Food	stool	mouse feces	high
+12201.food.kimchi.1.1.nucleomag.H	12201.food.kimchi.1.2.nucleomag.H	0.4983699447334665	kimchi_container_1	NucleoMag Food	kimchi_container_1	NucleoMag Food	food	kimchi	high
+12201.food.kimchi.1.1.nucleomag.H	12201.food.kimchi.1.3.nucleomag.H	0.4224879920714471	kimchi_container_1	NucleoMag Food	kimchi_container_1	NucleoMag Food	food	kimchi	high
+12201.oral.human.K.1.nucleomag.H	12201.oral.human.K.3.nucleomag.H	0.21029087879543926	human.saliva.K	NucleoMag Food	human.saliva.K	NucleoMag Food	oral	human saliva	high
+12201.oral.human.K.1.nucleomag.H	12201.oral.human.K.2.nucleomag.H	0.2875966567622562	human.saliva.K	NucleoMag Food	human.saliva.K	NucleoMag Food	oral	human saliva	high
+12201.oral.human.A.3.nucleomag.H	12201.oral.human.A.1.nucleomag.H	0.23237082637578277	human.saliva.A	NucleoMag Food	human.saliva.A	NucleoMag Food	oral	human saliva	high
+12201.oral.human.A.3.nucleomag.H	12201.oral.human.A.2.nucleomag.H	0.30554561330457713	human.saliva.A	NucleoMag Food	human.saliva.A	NucleoMag Food	oral	human saliva	high
+12201.stool.mouse.M.1.nucleomag.H	12201.stool.mouse.M.3.nucleomag.H	0.19993563590717428	mouse.feces.M	NucleoMag Food	mouse.feces.M	NucleoMag Food	stool	mouse feces	high
+12201.stool.mouse.M.1.nucleomag.H	12201.stool.mouse.M.2.nucleomag.H	0.23951873926527772	mouse.feces.M	NucleoMag Food	mouse.feces.M	NucleoMag Food	stool	mouse feces	high
+12201.oral.human.N.1.nucleomag.H	12201.oral.human.N.3.nucleomag.H	0.27006118209716035	human.saliva.N	NucleoMag Food	human.saliva.N	NucleoMag Food	oral	human saliva	high
+12201.oral.human.N.1.nucleomag.H	12201.oral.human.N.2.nucleomag.H	0.30657931663250576	human.saliva.N	NucleoMag Food	human.saliva.N	NucleoMag Food	oral	human saliva	high
+12201.food.yogurt.2.2.nucleomag.H	12201.food.yogurt.2.3.nucleomag.H	0.4994027791378665	yogurt_container_2	NucleoMag Food	yogurt_container_2	NucleoMag Food	food	yogurt	high
+12201.food.yogurt.2.2.nucleomag.H	12201.food.yogurt.2.1.nucleomag.H	0.4175410262653987	yogurt_container_2	NucleoMag Food	yogurt_container_2	NucleoMag Food	food	yogurt	high
+12201.stool.cat.L.1.nucleomag.H	12201.stool.cat.L.2.nucleomag.H	0.33091226372914306	cat.feces.L	NucleoMag Food	cat.feces.L	NucleoMag Food	stool	cat feces	high
+12201.food.yogurt.2.3.nucleomag.H	12201.food.yogurt.2.1.nucleomag.H	0.4122124892987694	yogurt_container_2	NucleoMag Food	yogurt_container_2	NucleoMag Food	food	yogurt	high
+12201.stool.human.B.3.nucleomag.H	12201.stool.human.B.1.nucleomag.H	0.22746337182700185	human.feces.B	NucleoMag Food	human.feces.B	NucleoMag Food	stool	human feces	high
+12201.stool.human.B.3.nucleomag.H	12201.stool.human.B.2.nucleomag.H	0.2127532682681891	human.feces.B	NucleoMag Food	human.feces.B	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.1.1.nucleomag.H	12201.stool.human.J.1.3.nucleomag.H	0.251476468835816	human.feces.J.1	NucleoMag Food	human.feces.J.1	NucleoMag Food	stool	human feces	high
+12201.food.yogurt.1.3.nucleomag.H	12201.food.yogurt.1.2.nucleomag.H	0.5637051131061195	yogurt_container_1	NucleoMag Food	yogurt_container_1	NucleoMag Food	food	yogurt	high
+12201.food.yogurt.1.3.nucleomag.H	12201.food.yogurt.1.1.nucleomag.H	0.4227882517814124	yogurt_container_1	NucleoMag Food	yogurt_container_1	NucleoMag Food	food	yogurt	high
+12201.food.kimchi.1.2.nucleomag.H	12201.food.kimchi.1.3.nucleomag.H	0.35653453712675554	kimchi_container_1	NucleoMag Food	kimchi_container_1	NucleoMag Food	food	kimchi	high
+12201.oral.human.B.3.nucleomag.H	12201.oral.human.B.2.nucleomag.H	0.20603151442797527	human.saliva.B	NucleoMag Food	human.saliva.B	NucleoMag Food	oral	human saliva	high
+12201.oral.human.B.3.nucleomag.H	12201.oral.human.B.1.nucleomag.H	0.3262695267823273	human.saliva.B	NucleoMag Food	human.saliva.B	NucleoMag Food	oral	human saliva	high
+12201.stool.cat.M.3.nucleomag.H	12201.stool.cat.M.2.nucleomag.H	0.14635494562518206	cat.feces.M	NucleoMag Food	cat.feces.M	NucleoMag Food	stool	cat feces	high
+12201.stool.cat.M.3.nucleomag.H	12201.stool.cat.M.1.nucleomag.H	0.2590182692860353	cat.feces.M	NucleoMag Food	cat.feces.M	NucleoMag Food	stool	cat feces	high
+12201.food.yogurt.1.2.nucleomag.H	12201.food.yogurt.1.1.nucleomag.H	0.6943703130257183	yogurt_container_1	NucleoMag Food	yogurt_container_1	NucleoMag Food	food	yogurt	high
+12201.stool.human.B.1.nucleomag.H	12201.stool.human.B.2.nucleomag.H	0.17871732874456614	human.feces.B	NucleoMag Food	human.feces.B	NucleoMag Food	stool	human feces	high
+12201.oral.human.A.1.nucleomag.H	12201.oral.human.A.2.nucleomag.H	0.2592459497797559	human.saliva.A	NucleoMag Food	human.saliva.A	NucleoMag Food	oral	human saliva	high
+12201.oral.human.L.1.nucleomag.H	12201.oral.human.L.3.nucleomag.H	0.3301801282725812	human.saliva.L	NucleoMag Food	human.saliva.L	NucleoMag Food	oral	human saliva	high
+12201.oral.human.L.1.nucleomag.H	12201.oral.human.L.2.nucleomag.H	0.24376550430421048	human.saliva.L	NucleoMag Food	human.saliva.L	NucleoMag Food	oral	human saliva	high
+12201.stool.human.J.2.1.nucleomag.H	12201.stool.human.J.2.2.nucleomag.H	0.20760376010337822	human.feces.J.2	NucleoMag Food	human.feces.J.2	NucleoMag Food	stool	human feces	high
+12201.stool.human.J.2.1.nucleomag.H	12201.stool.human.J.2.3.nucleomag.H	0.26716265067533285	human.feces.J.2	NucleoMag Food	human.feces.J.2	NucleoMag Food	stool	human feces	high
+12201.stool.cat.M.2.nucleomag.H	12201.stool.cat.M.1.nucleomag.H	0.20006648582453646	cat.feces.M	NucleoMag Food	cat.feces.M	NucleoMag Food	stool	cat feces	high
+12201.stool.mouse.L.3.nucleomag.H	12201.stool.mouse.L.1.nucleomag.H	0.23830516283355133	mouse.feces.L	NucleoMag Food	mouse.feces.L	NucleoMag Food	stool	mouse feces	high
+12201.oral.human.D.3.nucleomag.H	12201.oral.human.D.2.nucleomag.H	0.27925993618151074	human.salva.D	NucleoMag Food	human.salva.D	NucleoMag Food	oral	human saliva	high
+12201.stool.human.J.2.2.nucleomag.H	12201.stool.human.J.2.3.nucleomag.H	0.19789177645625128	human.feces.J.2	NucleoMag Food	human.feces.J.2	NucleoMag Food	stool	human feces	high
+12201.oral.human.K.3.nucleomag.H	12201.oral.human.K.2.nucleomag.H	0.26743433557177315	human.saliva.K	NucleoMag Food	human.saliva.K	NucleoMag Food	oral	human saliva	high
+12201.stool.mouse.M.3.nucleomag.H	12201.stool.mouse.M.2.nucleomag.H	0.2269032025984736	mouse.feces.M	NucleoMag Food	mouse.feces.M	NucleoMag Food	stool	mouse feces	high
+12201.oral.human.B.2.nucleomag.H	12201.oral.human.B.1.nucleomag.H	0.2779889040486937	human.saliva.B	NucleoMag Food	human.saliva.B	NucleoMag Food	oral	human saliva	high
+12201.oral.human.N.3.nucleomag.H	12201.oral.human.N.2.nucleomag.H	0.3308053259096636	human.saliva.N	NucleoMag Food	human.saliva.N	NucleoMag Food	oral	human saliva	high
+12201.oral.human.L.3.nucleomag.H	12201.oral.human.L.2.nucleomag.H	0.2989789112289497	human.saliva.L	NucleoMag Food	human.saliva.L	NucleoMag Food	oral	human saliva	high
+12201.food.yogurt.1.3.powersoil.H	12201.food.yogurt.1.2.powersoil.H	0.3923334056915206	yogurt_container_1	PowerSoil r2	yogurt_container_1	PowerSoil r2	food	yogurt	high
+12201.food.yogurt.1.3.powersoil.H	12201.food.yogurt.1.1.powersoil.H	0.31852900244885785	yogurt_container_1	PowerSoil r2	yogurt_container_1	PowerSoil r2	food	yogurt	high
+12201.oral.human.D.2.powersoil.H	12201.oral.human.D.3.powersoil.H	0.25469123543356886	human.salva.D	PowerSoil r2	human.salva.D	PowerSoil r2	oral	human saliva	high
+12201.stool.human.B.2.powersoil.H	12201.stool.human.B.3.powersoil.H	0.2319828713969758	human.feces.B	PowerSoil r2	human.feces.B	PowerSoil r2	stool	human feces	high
+12201.stool.human.B.2.powersoil.H	12201.stool.human.B.1.powersoil.H	0.18855592440750923	human.feces.B	PowerSoil r2	human.feces.B	PowerSoil r2	stool	human feces	high
+12201.stool.human.B.3.powersoil.H	12201.stool.human.B.1.powersoil.H	0.226333796990396	human.feces.B	PowerSoil r2	human.feces.B	PowerSoil r2	stool	human feces	high
+12201.oral.human.L.1.powersoil.H	12201.oral.human.L.2.powersoil.H	0.1899648948103792	human.saliva.L	PowerSoil r2	human.saliva.L	PowerSoil r2	oral	human saliva	high
+12201.oral.human.N.1.powersoil.H	12201.oral.human.N.3.powersoil.H	0.29193179815612064	human.saliva.N	PowerSoil r2	human.saliva.N	PowerSoil r2	oral	human saliva	high
+12201.oral.human.N.1.powersoil.H	12201.oral.human.N.2.powersoil.H	0.32307555492199763	human.saliva.N	PowerSoil r2	human.saliva.N	PowerSoil r2	oral	human saliva	high
+12201.stool.human.A.1.powersoil.H	12201.stool.human.A.3.powersoil.H	0.376634378196435	human.feces.A	PowerSoil r2	human.feces.A	PowerSoil r2	stool	human feces	high
+12201.stool.human.A.1.powersoil.H	12201.stool.human.A.2.powersoil.H	0.3827394710323825	human.feces.A	PowerSoil r2	human.feces.A	PowerSoil r2	stool	human feces	high
+12201.stool.human.J.3.3.powersoil.H	12201.stool.human.J.3.1.powersoil.H	0.18613033226778447	human.feces.J.3	PowerSoil r2	human.feces.J.3	PowerSoil r2	stool	human feces	high
+12201.stool.human.A.3.powersoil.H	12201.stool.human.A.2.powersoil.H	0.2165509356593971	human.feces.A	PowerSoil r2	human.feces.A	PowerSoil r2	stool	human feces	high
+12201.stool.mouse.L.3.powersoil.H	12201.stool.mouse.L.1.powersoil.H	0.2833598897764018	mouse.feces.L	PowerSoil r2	mouse.feces.L	PowerSoil r2	stool	mouse feces	high
+12201.stool.mouse.L.3.powersoil.H	12201.stool.mouse.L.2.powersoil.H	0.3004038486768467	mouse.feces.L	PowerSoil r2	mouse.feces.L	PowerSoil r2	stool	mouse feces	high
+12201.oral.human.N.3.powersoil.H	12201.oral.human.N.2.powersoil.H	0.27221684380043526	human.saliva.N	PowerSoil r2	human.saliva.N	PowerSoil r2	oral	human saliva	high
+12201.stool.mouse.L.1.powersoil.H	12201.stool.mouse.L.2.powersoil.H	0.3095058933282843	mouse.feces.L	PowerSoil r2	mouse.feces.L	PowerSoil r2	stool	mouse feces	high
+12201.stool.cat.L.3.powersoil.H	12201.stool.cat.L.1.powersoil.H	0.44058456224288284	cat.feces.L	PowerSoil r2	cat.feces.L	PowerSoil r2	stool	cat feces	high
+12201.stool.cat.L.3.powersoil.H	12201.stool.cat.L.2.powersoil.H	0.36418410427033715	cat.feces.L	PowerSoil r2	cat.feces.L	PowerSoil r2	stool	cat feces	high
+12201.stool.human.J.2.1.powersoil.H	12201.stool.human.J.2.3.powersoil.H	0.2448550930920177	human.feces.J.2	PowerSoil r2	human.feces.J.2	PowerSoil r2	stool	human feces	high
+12201.stool.human.J.2.1.powersoil.H	12201.stool.human.J.2.2.powersoil.H	0.19812359373134994	human.feces.J.2	PowerSoil r2	human.feces.J.2	PowerSoil r2	stool	human feces	high
+12201.oral.human.K.3.powersoil.H	12201.oral.human.K.2.powersoil.H	0.19336156883149544	human.saliva.K	PowerSoil r2	human.saliva.K	PowerSoil r2	oral	human saliva	high
+12201.oral.human.K.3.powersoil.H	12201.oral.human.K.1.powersoil.H	0.26598211286349166	human.saliva.K	PowerSoil r2	human.saliva.K	PowerSoil r2	oral	human saliva	high
+12201.oral.human.K.2.powersoil.H	12201.oral.human.K.1.powersoil.H	0.27023302830089563	human.saliva.K	PowerSoil r2	human.saliva.K	PowerSoil r2	oral	human saliva	high
+12201.food.kimchi.1.3.powersoil.H	12201.food.kimchi.1.1.powersoil.H	0.3035557240474847	kimchi_container_1	PowerSoil r2	kimchi_container_1	PowerSoil r2	food	kimchi	high
+12201.food.kimchi.1.3.powersoil.H	12201.food.kimchi.1.2.powersoil.H	0.337634903136016	kimchi_container_1	PowerSoil r2	kimchi_container_1	PowerSoil r2	food	kimchi	high
+12201.food.yogurt.1.2.powersoil.H	12201.food.yogurt.1.1.powersoil.H	0.5265683596326803	yogurt_container_1	PowerSoil r2	yogurt_container_1	PowerSoil r2	food	yogurt	high
+12201.stool.human.J.1.1.powersoil.H	12201.stool.human.J.1.2.powersoil.H	0.29890870544207626	human.feces.J.1	PowerSoil r2	human.feces.J.1	PowerSoil r2	stool	human feces	high
+12201.stool.human.J.1.1.powersoil.H	12201.stool.human.J.1.3.powersoil.H	0.23542083905752534	human.feces.J.1	PowerSoil r2	human.feces.J.1	PowerSoil r2	stool	human feces	high
+12201.stool.human.J.1.2.powersoil.H	12201.stool.human.J.1.3.powersoil.H	0.27585791392134895	human.feces.J.1	PowerSoil r2	human.feces.J.1	PowerSoil r2	stool	human feces	high
+12201.stool.human.J.2.3.powersoil.H	12201.stool.human.J.2.2.powersoil.H	0.21470120010724905	human.feces.J.2	PowerSoil r2	human.feces.J.2	PowerSoil r2	stool	human feces	high
+12201.oral.human.A.2.powersoil.H	12201.oral.human.A.3.powersoil.H	0.29175468864676435	human.saliva.A	PowerSoil r2	human.saliva.A	PowerSoil r2	oral	human saliva	high
+12201.food.kimchi.2.3.powersoil.H	12201.food.kimchi.2.1.powersoil.H	0.4672220818746409	kimchi_container_2	PowerSoil r2	kimchi_container_2	PowerSoil r2	food	kimchi	high
+12201.food.kimchi.2.3.powersoil.H	12201.food.kimchi.2.2.powersoil.H	0.3339475301924935	kimchi_container_2	PowerSoil r2	kimchi_container_2	PowerSoil r2	food	kimchi	high
+12201.food.kimchi.2.1.powersoil.H	12201.food.kimchi.2.2.powersoil.H	0.34845325408427186	kimchi_container_2	PowerSoil r2	kimchi_container_2	PowerSoil r2	food	kimchi	high
+12201.food.yogurt.2.3.powersoil.H	12201.food.yogurt.2.1.powersoil.H	0.4625523245216969	yogurt_container_2	PowerSoil r2	yogurt_container_2	PowerSoil r2	food	yogurt	high
+12201.food.yogurt.2.3.powersoil.H	12201.food.yogurt.2.2.powersoil.H	0.4153781636725704	yogurt_container_2	PowerSoil r2	yogurt_container_2	PowerSoil r2	food	yogurt	high
+12201.oral.human.B.2.powersoil.H	12201.oral.human.B.3.powersoil.H	0.3451388163715103	human.saliva.B	PowerSoil r2	human.saliva.B	PowerSoil r2	oral	human saliva	high
+12201.oral.human.B.2.powersoil.H	12201.oral.human.B.1.powersoil.H	0.3404937750389481	human.saliva.B	PowerSoil r2	human.saliva.B	PowerSoil r2	oral	human saliva	high
+12201.stool.cat.N.1.powersoil.H	12201.stool.cat.N.2.powersoil.H	0.2098794462111701	cat.feces.N	PowerSoil r2	cat.feces.N	PowerSoil r2	stool	cat feces	high
+12201.stool.cat.N.1.powersoil.H	12201.stool.cat.N.3.powersoil.H	0.2957986025948041	cat.feces.N	PowerSoil r2	cat.feces.N	PowerSoil r2	stool	cat feces	high
+12201.oral.human.B.3.powersoil.H	12201.oral.human.B.1.powersoil.H	0.3075678833508115	human.saliva.B	PowerSoil r2	human.saliva.B	PowerSoil r2	oral	human saliva	high
+12201.food.yogurt.2.1.powersoil.H	12201.food.yogurt.2.2.powersoil.H	0.45810053914287946	yogurt_container_2	PowerSoil r2	yogurt_container_2	PowerSoil r2	food	yogurt	high
+12201.stool.cat.M.1.powersoil.H	12201.stool.cat.M.2.powersoil.H	0.24529205086848435	cat.feces.M	PowerSoil r2	cat.feces.M	PowerSoil r2	stool	cat feces	high
+12201.food.kimchi.1.1.powersoil.H	12201.food.kimchi.1.2.powersoil.H	0.3358346700199752	kimchi_container_1	PowerSoil r2	kimchi_container_1	PowerSoil r2	food	kimchi	high
+12201.stool.cat.N.2.powersoil.H	12201.stool.cat.N.3.powersoil.H	0.30049863695785195	cat.feces.N	PowerSoil r2	cat.feces.N	PowerSoil r2	stool	cat feces	high
+12201.stool.cat.L.1.powersoil.H	12201.stool.cat.L.2.powersoil.H	0.3758801006846017	cat.feces.L	PowerSoil r2	cat.feces.L	PowerSoil r2	stool	cat feces	high
+12201.stool.cat.N.1.zymoMA.H	12201.stool.cat.N.2.zymoMA.H	0.2839546191890118	cat.feces.N	Zymo MagBead	cat.feces.N	Zymo MagBead	stool	cat feces	high
+12201.stool.cat.N.1.zymoMA.H	12201.stool.cat.N.3.zymoMA.H	0.23274169367239242	cat.feces.N	Zymo MagBead	cat.feces.N	Zymo MagBead	stool	cat feces	high
+12201.food.kimchi.2.3.zymoMA.H	12201.food.kimchi.2.2.zymoMA.H	0.37351304716773237	kimchi_container_2	Zymo MagBead	kimchi_container_2	Zymo MagBead	food	kimchi	high
+12201.food.kimchi.2.3.zymoMA.H	12201.food.kimchi.2.1.zymoMA.H	0.28557464964478424	kimchi_container_2	Zymo MagBead	kimchi_container_2	Zymo MagBead	food	kimchi	high
+12201.soil.bare.K.3.zymoMA.H	12201.soil.bare.K.1.zymoMA.H	0.3333993983666882	bare soil site 2	Zymo MagBead	bare soil site 2	Zymo MagBead	soil	bare soil	high
+12201.soil.bare.K.3.zymoMA.H	12201.soil.bare.K.2.zymoMA.H	0.33384496908737693	bare soil site 2	Zymo MagBead	bare soil site 2	Zymo MagBead	soil	bare soil	high
+12201.stool.cat.L.2.zymoMA.H	12201.stool.cat.L.1.zymoMA.H	0.4035824116724107	cat.feces.L	Zymo MagBead	cat.feces.L	Zymo MagBead	stool	cat feces	high
+12201.stool.cat.L.2.zymoMA.H	12201.stool.cat.L.3.zymoMA.H	0.29928494891419793	cat.feces.L	Zymo MagBead	cat.feces.L	Zymo MagBead	stool	cat feces	high
+12201.tissue.mouse.Q.1.zymoMA.H	12201.tissue.mouse.Q.2.zymoMA.H	0.3189907857611	mouse.tissue.Q	Zymo MagBead	mouse.tissue.Q	Zymo MagBead	tissue	mouse jejunum tissue	high
+12201.stool.cat.L.1.zymoMA.H	12201.stool.cat.L.3.zymoMA.H	0.4429724018718655	cat.feces.L	Zymo MagBead	cat.feces.L	Zymo MagBead	stool	cat feces	high
+12201.oral.human.B.2.zymoMA.H	12201.oral.human.B.1.zymoMA.H	0.21325375427504173	human.saliva.B	Zymo MagBead	human.saliva.B	Zymo MagBead	oral	human saliva	high
+12201.oral.human.B.2.zymoMA.H	12201.oral.human.B.3.zymoMA.H	0.228030203972209	human.saliva.B	Zymo MagBead	human.saliva.B	Zymo MagBead	oral	human saliva	high
+12201.stool.mouse.L.3.zymoMA.H	12201.stool.mouse.L.2.zymoMA.H	0.2972027185777475	mouse.feces.L	Zymo MagBead	mouse.feces.L	Zymo MagBead	stool	mouse feces	high
+12201.stool.mouse.L.3.zymoMA.H	12201.stool.mouse.L.1.zymoMA.H	0.2955555753391902	mouse.feces.L	Zymo MagBead	mouse.feces.L	Zymo MagBead	stool	mouse feces	high
+12201.oral.human.D.2.zymoMA.H	12201.oral.human.D.3.zymoMA.H	0.20948194329703235	human.salva.D	Zymo MagBead	human.salva.D	Zymo MagBead	oral	human saliva	high
+12201.oral.human.K.1.zymoMA.H	12201.oral.human.K.3.zymoMA.H	0.28485939145476447	human.saliva.K	Zymo MagBead	human.saliva.K	Zymo MagBead	oral	human saliva	high
+12201.oral.human.K.1.zymoMA.H	12201.oral.human.K.2.zymoMA.H	0.21143383606532756	human.saliva.K	Zymo MagBead	human.saliva.K	Zymo MagBead	oral	human saliva	high
+12201.stool.cat.M.3.zymoMA.H	12201.stool.cat.M.1.zymoMA.H	0.2785326525718147	cat.feces.M	Zymo MagBead	cat.feces.M	Zymo MagBead	stool	cat feces	high
+12201.stool.cat.M.3.zymoMA.H	12201.stool.cat.M.2.zymoMA.H	0.2650500741296199	cat.feces.M	Zymo MagBead	cat.feces.M	Zymo MagBead	stool	cat feces	high
+12201.stool.human.J.2.2.zymoMA.H	12201.stool.human.J.2.1.zymoMA.H	0.2733143729743879	human.feces.J.2	Zymo MagBead	human.feces.J.2	Zymo MagBead	stool	human feces	high
+12201.stool.human.J.2.2.zymoMA.H	12201.stool.human.J.2.3.zymoMA.H	0.2606423078305574	human.feces.J.2	Zymo MagBead	human.feces.J.2	Zymo MagBead	stool	human feces	high
+12201.food.kimchi.1.3.zymoMA.H	12201.food.kimchi.1.2.zymoMA.H	0.3168567206230607	kimchi_container_1	Zymo MagBead	kimchi_container_1	Zymo MagBead	food	kimchi	high
+12201.food.kimchi.1.3.zymoMA.H	12201.food.kimchi.1.1.zymoMA.H	0.4640871510638044	kimchi_container_1	Zymo MagBead	kimchi_container_1	Zymo MagBead	food	kimchi	high
+12201.soil.bare.L.1.zymoMA.H	12201.soil.bare.L.3.zymoMA.H	0.2691480981560509	bare soil site 3	Zymo MagBead	bare soil site 3	Zymo MagBead	soil	bare soil	high
+12201.oral.human.L.3.zymoMA.H	12201.oral.human.L.2.zymoMA.H	0.22732088568925923	human.saliva.L	Zymo MagBead	human.saliva.L	Zymo MagBead	oral	human saliva	high
+12201.oral.human.L.3.zymoMA.H	12201.oral.human.L.1.zymoMA.H	0.2479257648822047	human.saliva.L	Zymo MagBead	human.saliva.L	Zymo MagBead	oral	human saliva	high
+12201.stool.human.J.1.1.zymoMA.H	12201.stool.human.J.1.3.zymoMA.H	0.2260032828519508	human.feces.J.1	Zymo MagBead	human.feces.J.1	Zymo MagBead	stool	human feces	high
+12201.stool.cat.N.2.zymoMA.H	12201.stool.cat.N.3.zymoMA.H	0.3097198980300489	cat.feces.N	Zymo MagBead	cat.feces.N	Zymo MagBead	stool	cat feces	high
+12201.oral.human.B.1.zymoMA.H	12201.oral.human.B.3.zymoMA.H	0.17028019335037026	human.saliva.B	Zymo MagBead	human.saliva.B	Zymo MagBead	oral	human saliva	high
+12201.stool.mouse.L.2.zymoMA.H	12201.stool.mouse.L.1.zymoMA.H	0.2280118497167807	mouse.feces.L	Zymo MagBead	mouse.feces.L	Zymo MagBead	stool	mouse feces	high
+12201.stool.human.J.2.1.zymoMA.H	12201.stool.human.J.2.3.zymoMA.H	0.1831545207444798	human.feces.J.2	Zymo MagBead	human.feces.J.2	Zymo MagBead	stool	human feces	high
+12201.food.kimchi.1.2.zymoMA.H	12201.food.kimchi.1.1.zymoMA.H	0.479960012358736	kimchi_container_1	Zymo MagBead	kimchi_container_1	Zymo MagBead	food	kimchi	high
+12201.food.yogurt.2.3.zymoMA.H	12201.food.yogurt.2.1.zymoMA.H	0.7754375022000803	yogurt_container_2	Zymo MagBead	yogurt_container_2	Zymo MagBead	food	yogurt	high
+12201.food.yogurt.2.3.zymoMA.H	12201.food.yogurt.2.2.zymoMA.H	0.6004539498070897	yogurt_container_2	Zymo MagBead	yogurt_container_2	Zymo MagBead	food	yogurt	high
+12201.stool.mouse.M.1.zymoMA.H	12201.stool.mouse.M.2.zymoMA.H	0.2030071533545643	mouse.feces.M	Zymo MagBead	mouse.feces.M	Zymo MagBead	stool	mouse feces	high
+12201.stool.mouse.M.1.zymoMA.H	12201.stool.mouse.M.3.zymoMA.H	0.32622984350033574	mouse.feces.M	Zymo MagBead	mouse.feces.M	Zymo MagBead	stool	mouse feces	high
+12201.food.kimchi.2.2.zymoMA.H	12201.food.kimchi.2.1.zymoMA.H	0.40199178171378225	kimchi_container_2	Zymo MagBead	kimchi_container_2	Zymo MagBead	food	kimchi	high
+12201.oral.human.A.2.zymoMA.H	12201.oral.human.A.3.zymoMA.H	0.22206921144007366	human.saliva.A	Zymo MagBead	human.saliva.A	Zymo MagBead	oral	human saliva	high
+12201.oral.human.A.2.zymoMA.H	12201.oral.human.A.1.zymoMA.H	0.21836335788840927	human.saliva.A	Zymo MagBead	human.saliva.A	Zymo MagBead	oral	human saliva	high
+12201.oral.human.L.2.zymoMA.H	12201.oral.human.L.1.zymoMA.H	0.232320349009958	human.saliva.L	Zymo MagBead	human.saliva.L	Zymo MagBead	oral	human saliva	high
+12201.stool.cat.M.1.zymoMA.H	12201.stool.cat.M.2.zymoMA.H	0.21049422886107022	cat.feces.M	Zymo MagBead	cat.feces.M	Zymo MagBead	stool	cat feces	high
+12201.soil.bare.K.1.zymoMA.H	12201.soil.bare.K.2.zymoMA.H	0.35931479209987566	bare soil site 2	Zymo MagBead	bare soil site 2	Zymo MagBead	soil	bare soil	high
+12201.stool.mouse.M.2.zymoMA.H	12201.stool.mouse.M.3.zymoMA.H	0.35488073057013036	mouse.feces.M	Zymo MagBead	mouse.feces.M	Zymo MagBead	stool	mouse feces	high
+12201.food.yogurt.1.3.zymoMA.H	12201.food.yogurt.1.1.zymoMA.H	0.40813391097828494	yogurt_container_1	Zymo MagBead	yogurt_container_1	Zymo MagBead	food	yogurt	high
+12201.food.yogurt.1.3.zymoMA.H	12201.food.yogurt.1.2.zymoMA.H	0.4473757136444006	yogurt_container_1	Zymo MagBead	yogurt_container_1	Zymo MagBead	food	yogurt	high
+12201.stool.human.J.3.2.zymoMA.H	12201.stool.human.J.3.1.zymoMA.H	0.1970440459320367	human.feces.J.3	Zymo MagBead	human.feces.J.3	Zymo MagBead	stool	human feces	high
+12201.stool.human.J.3.2.zymoMA.H	12201.stool.human.J.3.3.zymoMA.H	0.2685108351212745	human.feces.J.3	Zymo MagBead	human.feces.J.3	Zymo MagBead	stool	human feces	high
+12201.stool.human.J.3.1.zymoMA.H	12201.stool.human.J.3.3.zymoMA.H	0.27554498695451773	human.feces.J.3	Zymo MagBead	human.feces.J.3	Zymo MagBead	stool	human feces	high
+12201.oral.human.A.3.zymoMA.H	12201.oral.human.A.1.zymoMA.H	0.24351250910892067	human.saliva.A	Zymo MagBead	human.saliva.A	Zymo MagBead	oral	human saliva	high
+12201.food.yogurt.1.1.zymoMA.H	12201.food.yogurt.1.2.zymoMA.H	0.36928066709129104	yogurt_container_1	Zymo MagBead	yogurt_container_1	Zymo MagBead	food	yogurt	high
+12201.food.yogurt.2.1.zymoMA.H	12201.food.yogurt.2.2.zymoMA.H	0.745104796761433	yogurt_container_2	Zymo MagBead	yogurt_container_2	Zymo MagBead	food	yogurt	high
+12201.oral.human.K.3.zymoMA.H	12201.oral.human.K.2.zymoMA.H	0.25326077828155513	human.saliva.K	Zymo MagBead	human.saliva.K	Zymo MagBead	oral	human saliva	high
