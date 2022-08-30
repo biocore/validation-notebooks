@@ -9,4 +9,5 @@ A validation notebook for quantifying absolute abundances for shotgun metagenomi
 - A feature metadata file indicating species names and genome sizes (bp) for each feature (metadata_features.tsv)
 
 ### References
-This code was adapted from Dr. Livia Zaramela (email).
+This code was adapted from Dr. Livia Zaramela (zaramela at gmail dot com):
+https://github.com/lzaramela/SynDNA
