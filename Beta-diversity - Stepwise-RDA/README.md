@@ -5,7 +5,7 @@ A validation notebook for performing beta-diversity analysis using RDA and stepw
 This notebook uses a QIIME2 conda environment kernel, as well as tools provided in the 'assets' folder.
 
 ### References
-This code was adapted from X (email).
+This code was adapted from Cameron Martino (cmartino at eng dot ucsd dot edu).
 
 Shaffer, J.P., C.S. Carpenter, C. Martino, R.A. Salido, J.J. Minich, M. Bryant, K. Sanders,
 T. Schwartz, G. Humphrey, A.D. Swafford, and R. Knight. 2022. A comparison of six

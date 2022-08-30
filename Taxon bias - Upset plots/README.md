@@ -6,7 +6,7 @@ A validation notebook for performing analysis of taxon bias using UpSet plots. C
 This notebook uses a Songbird/QIIME2 (e.g., 2020.6) conda environment kernel, as well as tools provided in the 'assets' folder.
 
 ### References
-This code was adapted from X (email).
+This code was adapted from Cameron Martino (cmartino at eng dot ucsd dot edu).
 
 Shaffer, J.P., C.S. Carpenter, C. Martino, R.A. Salido, J.J. Minich, M. Bryant, K. Sanders, T. Schwartz, G. Humphrey, A.D. Swafford, and R. Knight. 2022. A comparison of six DNA extraction protocols for 16S, ITS, and shotgun metagenomic sequencing of microbial communities. Biotechniques 73:34-46. doi: 10.2144/btn-2022-0032.
 
